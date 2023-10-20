@@ -1,0 +1,70 @@
+.wikimenu{
+    text-align: left;
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 2.5%;
+}
+  
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.c {
+    font-family: Roboto Slab;
+}
+
+.d {
+    margin-left: 22.5%;
+    margin-right: 25%;
+    font-family: Roboto Slab;
+    text-align: left;
+    vertical-align: top;
+}
+
+.e {
+    border: 1px black;
+    width: 360px;
+    height: 900px;
+    border: 0;
+    position: sticky;
+    float: right;
+}
+
+  .container {
+    display:flex;
+    width: 100%;
+    position: fixed;
+    margin-top: 0%;
+}
+
+.logo{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+html::-webkit-scrollbar {
+    width: 0.5rem;
+    background-color: white;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 10px;
+}
+
